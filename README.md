@@ -1,4 +1,4 @@
 # This is my local Repo.
 <br>
-Learn & Build.......
+Learn & Build.
 jjjjj
