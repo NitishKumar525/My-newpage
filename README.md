@@ -1,7 +1,6 @@
 # This is my local Repo.
 
 ### Learn & Build.
-gggggg
-ghgg
+ggg
 fffffffffffffff
 ssssssssssssss
